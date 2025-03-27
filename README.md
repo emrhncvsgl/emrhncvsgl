@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Greetings my name is Emirhan Çavuşoğlu I'm a blockchain developer & enthusiast<br> 👨‍💻 I'm currently working on smart contract & web3 development<br>🧠 I fully intend to learn all about blockchain & other new technologies<br>👀 I'm looking for a nice job :]<br>🤝  I'm open to collaborating on any projects 
+👋 Greetings my name is Emirhan Çavuşoğlu I'm a blockchain developer & enthusiast<br> 👨‍💻 I'm currently working on AI & smart contract & web3 development<br>🧠 I fully intend to learn all about blockchain & other new technologies<br>👀 I'm looking for a nice job :]<br>🤝  I'm open to collaborating on any projects 
 
 
 ## 🌐 Socials:
